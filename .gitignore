@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Vidéos du tutoriel (trop lourdes pour le dépôt)
+*.mp4
+
+# Divers
+*.zip
+Thumbs.db

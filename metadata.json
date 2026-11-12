@@ -1,0 +1,6 @@
+{
+  "name": "Atlas 3D - Île de Nantes",
+  "description": "Atlas cartographique interactif de l'île de Nantes avec visualisation 3D des bâtiments, météo et qualité de l'air en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

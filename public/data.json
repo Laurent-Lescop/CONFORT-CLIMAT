@@ -1,0 +1,454 @@
+{
+  "overview": {
+    "center": [-1.5530, 47.2058],
+    "zoom": 14.3,
+    "pitch": 52,
+    "bearing": -28,
+    "title": "Île de Nantes",
+    "description": "Cœur de la métropole nantaise enserré par les bras de la Loire, l'île de Nantes (337 hectares) est le théâtre d'une des plus ambitieuses régénérations urbaines d'Europe, mêlant patrimoine naval, industrie créative, architecture contemporaine et transition écologique."
+  },
+  "districts": [
+    {
+      "id": "sainte-anne-prairie",
+      "name": "Sainte-Anne & Prairie-au-Duc",
+      "subtitle": "Parc des Chantiers & Machines de l'Île",
+      "center": [-1.5650, 47.2055],
+      "zoom": 15.6,
+      "pitch": 55,
+      "bearing": -20,
+      "description": "Ancien site des chantiers navals reconverti en grand parc public habité, accueillant les Nefs, le Grand Éléphant et des éco-quartiers d'avant-garde le long du boulevard de la Prairie-au-Duc."
+    },
+    {
+      "id": "creation",
+      "name": "Quartier de la Création",
+      "subtitle": "Halles Alstom, Beaux-Arts & Stereolux",
+      "center": [-1.5585, 47.2062],
+      "zoom": 16.0,
+      "pitch": 52,
+      "bearing": 15,
+      "description": "Pôle d'excellence dédié aux industries créatives et culturelles, rassemblant l'École des Beaux-Arts, Stereolux, l'École d'Architecture, le Mediacampus et des dizaines de startups innovantes."
+    },
+    {
+      "id": "republique-ponts",
+      "name": "République & Les Ponts",
+      "subtitle": "Faubourg historique & vie de quartier",
+      "center": [-1.5488, 47.2062],
+      "zoom": 15.4,
+      "pitch": 48,
+      "bearing": -10,
+      "description": "Le cœur habité traditionnel de l'île, avec ses cafés de quartier, sa vie commerçante dense, ses ruelles apaisées et sa transition douce vers les nouveaux axes métropolitains."
+    },
+    {
+      "id": "beaulieu-est",
+      "name": "Beaulieu & Pointe Est",
+      "subtitle": "Pôle tertiaire, Conservatoire & Berges",
+      "center": [-1.5320, 47.2100],
+      "zoom": 15.3,
+      "pitch": 50,
+      "bearing": -35,
+      "description": "Quartier moderne des années 1970 en profonde métamorphose, accueillant le Conservatoire régional, le centre Beaulieu rénové et des promenades paysagères au bord du bras de Pirmil."
+    },
+    {
+      "id": "pointe-ouest",
+      "name": "Pointe Ouest",
+      "subtitle": "Hangar à Bananes & Anneaux de Buren",
+      "center": [-1.5745, 47.2005],
+      "zoom": 15.8,
+      "pitch": 60,
+      "bearing": 45,
+      "description": "Proue spectaculaire tournée vers l'estuaire et le port, lieu festif et culturel emblématique rythmé par les 18 anneaux lumineux de Daniel Buren et Patrick Bouchain."
+    },
+    {
+      "id": "sud-ouest-chu",
+      "name": "Secteur Sud-Ouest & Grand CHU",
+      "subtitle": "Quartier de la santé & transformation majeure",
+      "center": [-1.5555, 47.2015],
+      "zoom": 15.5,
+      "pitch": 56,
+      "bearing": 10,
+      "description": "Ancien Marché d'Intérêt National (MIN) cédant la place au plus grand chantier hospitalier de France : le nouveau Centre Hospitalier Universitaire de Nantes et un campus santé."
+    }
+  ],
+  "items": [
+    {
+      "id": "machines-de-lile",
+      "name": "Les Machines de l'Île & Nefs Dubigeon",
+      "type": "poi",
+      "category": "Culture & Patrimoine",
+      "districtId": "sainte-anne-prairie",
+      "districtName": "Sainte-Anne & Prairie-au-Duc",
+      "coordinates": [-1.5641, 47.2065],
+      "coordinateConfirmed": true,
+      "shortDescription": "Créations mécaniques vivantes au croisement des mondes de Jules Verne et de Léonard de Vinci.",
+      "description": "Installées sous les anciennes nefs industrielles des chantiers Dubigeon, Les Machines de l'Île constituent une vitrine artistique planétaire. Le Grand Éléphant de 12 mètres de haut, la Galerie des Machines et le Carrousel des Mondes Marins réinventent l'imaginaire ouvrier nantais.",
+      "historyOrContext": "Construites entre 1912 et 1917 pour la construction navale, les nefs ont été sauvées de la démolition puis réhabilitées au début des années 2000 par les architectes Nicole Concordet et Patrick Bouchain.",
+      "status": "Ouvert au public",
+      "calendar": "Toute l'année (fermeture annuelle en janvier)",
+      "architect": "François Delaroziere & Pierre Orefice / Patrick Bouchain",
+      "keyFigures": [
+        { "label": "Hauteur Grand Éléphant", "value": "12 m (48 t)" },
+        { "label": "Fréquentation annuelle", "value": "~850 000 visiteurs" },
+        { "label": "Superficie des Nefs", "value": "11 000 m²" }
+      ],
+      "images": [
+        {
+          "url": "/images/nefs-dubigeon.jpg",
+          "caption": "Les Grandes Nefs Dubigeon au Parc des Chantiers (Les Machines de l'Île)",
+          "credit": "Patrimoine industriel et naval de l'Île de Nantes · Wikimedia Commons"
+        },
+        {
+          "url": "/images/nefs-dubigeon-2.jpg",
+          "caption": "Architecture des anciennes halles navales réhabilitées par Nicole Concordet et Patrick Bouchain",
+          "credit": "Documentation patrimoniale Nantes · Wikimedia Commons"
+        }
+      ],
+      "links": [
+        { "title": "Site officiel des Machines de l'Île", "url": "https://www.lesmachines-nantes.fr" },
+        { "title": "Samoa - Aménagement Île de Nantes", "url": "https://www.iledenantes.com" }
+      ],
+      "source_note": "Coordonnées GPS géoréférencées vérifiées d'après le cadastre IGN et OSM."
+    },
+    {
+      "id": "hangar-a-bananes",
+      "name": "Hangar à Bananes & Les Anneaux",
+      "type": "poi",
+      "category": "Art & Convivialité",
+      "districtId": "pointe-ouest",
+      "districtName": "Pointe Ouest",
+      "coordinates": [-1.5739, 47.2006],
+      "coordinateConfirmed": true,
+      "shortDescription": "Ancien entrepôt fruitier devenu haut-lieu festif et artistique jalonné par les anneaux de Daniel Buren.",
+      "description": "Situé à la pointe ouest, ce hangar servait jusqu'aux années 1970 à décharger et mûrir les bananes venues de Guinée et des Antilles. Réhabilité pour la biennale Estuaire 2007, il abrite aujourd'hui galeries, restaurants, scènes et terrasses face au bras de la Madeleine. Le quai est jalonné des 18 Anneaux créés par l'artiste Daniel Buren et Patrick Bouchain.",
+      "historyOrContext": "Témoin de l'histoire du commerce maritime nantais du XXe siècle, cet édifice linéaire de 8 000 m² ouvre une perspective unique sur le fleuve et Chantenay.",
+      "status": "Accessible en continu",
+      "calendar": "Éclairage nocturne des anneaux chaque soir",
+      "architect": "Daniel Buren & Patrick Bouchain",
+      "keyFigures": [
+        { "label": "Nombre d'anneaux", "value": "18 anneaux d'acier" },
+        { "label": "Longueur du hangar", "value": "150 mètres" },
+        { "label": "Diamètre des anneaux", "value": "4 mètres" }
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Architecture industrielle réhabilitée le long du fleuve",
+          "credit": "Estuaire Nantes"
+        }
+      ],
+      "links": [
+        { "title": "Le Voyage à Nantes - Parcours d'art", "url": "https://www.levoyageanantes.fr" }
+      ],
+      "source_note": "Coordonnées GPS géoréférencées vérifiées d'après le cadastre IGN et OSM."
+    },
+    {
+      "id": "halles-alstom",
+      "name": "Les Halles Alstom - Beaux-Arts Nantes Saint-Nazaire",
+      "type": "poi",
+      "category": "Enseignement & Recherche",
+      "districtId": "creation",
+      "districtName": "Quartier de la Création",
+      "coordinates": [-1.5583, 47.2062],
+      "coordinateConfirmed": true,
+      "shortDescription": "Nefs métalliques industrielles reconverties en campus artistique, pépinière et ateliers d'innovation.",
+      "description": "Ces vastes halles de construction mécanique ferroviaire et navale (Alstom / Batignolles-Châtillon) ont été transformées par l'architecte Franklin Azzi. Elles accueillent l'École Supérieure des Beaux-Arts Nantes Saint-Nazaire, des pépinières d'entreprises innovantes et un tiers-lieu d'expérimentation ouvert sur le boulevard Léon-Bureau.",
+      "status": "Actif - Établissement supérieur & tiers-lieu",
+      "calendar": "Expositions publiques temporaires régulières",
+      "architect": "Franklin Azzi Architecture",
+      "keyFigures": [
+        { "label": "Surface réhabilitée", "value": "26 000 m²" },
+        { "label": "Étudiants Beaux-Arts", "value": "500 étudiants" },
+        { "label": "Matériaux phares", "value": "Structure acier & verrières bioclimatiques" }
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Reconversion des structures métalliques et lumière zénithale",
+          "credit": "Architecture Contemporaine Nantes"
+        }
+      ],
+      "links": [
+        { "title": "École des Beaux-Arts Nantes Saint-Nazaire", "url": "https://beauxartsnantes.fr" },
+        { "title": "Halles 1 & 2 - Quartier de la Création", "url": "https://www.iledenantes.com" }
+      ],
+      "source_note": "Coordonnées géoréférencées vérifiées."
+    },
+    {
+      "id": "ensa-nantes",
+      "name": "École Nationale Supérieure d'Architecture (ENSA)",
+      "type": "poi",
+      "category": "Architecture",
+      "districtId": "creation",
+      "districtName": "Quartier de la Création",
+      "coordinates": [-1.5591, 47.2071],
+      "coordinateConfirmed": true,
+      "shortDescription": "Chef-d'œuvre de Lacaton & Vassal (Prix Pritzker) : structure ouverte, rampe continue et plateaux généreux.",
+      "description": "Livrée en 2009 par Anne Lacaton et Jean-Philippe Vassal (lauréats du Prix Pritzker 2021), l'école offre le double de la surface conventionnelle pour le même budget grâce à une structure poteaux-poutres en béton et une enveloppe en polycarbonate translucide. Une rampe intérieure permet d'arpenter le bâtiment jusqu'au toit-terrasse panoramique surplombant la Loire.",
+      "status": "En activité universitaire",
+      "calendar": "Visites guidées lors des Journées du Patrimoine",
+      "architect": "Lacaton & Vassal Architectes",
+      "keyFigures": [
+        { "label": "Surface utile", "value": "26 000 m²" },
+        { "label": "Capacité", "value": "1 000 étudiants architectes" },
+        { "label": "Distinction", "value": "Prix Pritzker 2021" }
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Grands volumes ouverts et lumière naturelle",
+          "credit": "ENSA Nantes"
+        }
+      ],
+      "links": [
+        { "title": "Site officiel de l'ENSA Nantes", "url": "https://www.nantes.archi.fr" }
+      ],
+      "source_note": "Coordonnées géoréférencées vérifiées."
+    },
+    {
+      "id": "stereolux",
+      "name": "Stereolux & La Fabrique",
+      "type": "poi",
+      "category": "Musique & Numérique",
+      "districtId": "creation",
+      "districtName": "Quartier de la Création",
+      "coordinates": [-1.5608, 47.2053],
+      "coordinateConfirmed": true,
+      "shortDescription": "Équipement culturel phare de diffusion musicale et de création dans les arts numériques.",
+      "description": "Porté par l'association Songo et conçu par l'agence Tetrarc, Stereolux combine deux salles de concert (1 200 et 400 places), des espaces de création numérique, des laboratoires de recherche sonore et la fameuse salle Multi-médias. Il est le point névralgique du festival Scopitone.",
+      "status": "Ouvert selon programmation",
+      "calendar": "Concerts, expositions et ateliers tout au long de la saison",
+      "architect": "Tetrarc Architectes",
+      "keyFigures": [
+        { "label": "Grande Salle", "value": "1 200 places" },
+        { "label": "Club", "value": "400 places" },
+        { "label": "Événements par an", "value": "> 200 manifestations" }
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Salle de spectacle et diffusion artistique",
+          "credit": "Stereolux"
+        }
+      ],
+      "links": [
+        { "title": "Programmation Stereolux", "url": "https://www.stereolux.org" }
+      ],
+      "source_note": "Coordonnées géoréférencées vérifiées."
+    },
+    {
+      "id": "grue-titan-jaune",
+      "name": "Grue Titan Jaune (Monument Historique)",
+      "type": "poi",
+      "category": "Patrimoine Maritime",
+      "districtId": "sainte-anne-prairie",
+      "districtName": "Sainte-Anne & Prairie-au-Duc",
+      "coordinates": [-1.5682, 47.2046],
+      "coordinateConfirmed": true,
+      "shortDescription": "Sentinelle d'acier et symbole de la mémoire des chantiers navals de Nantes.",
+      "description": "Construite en 1954 par la société nantaise Joseph Paris, cette grue Titan marteau de 80 tonnes d'acier peinte en jaune vif servait au levage et à l'armement des grands navires. Classée Monument Historique en 2018, elle veille majestueusement sur le quai des Antilles et le parc des Chantiers.",
+      "status": "Monument protégé - Visible en permanence",
+      "calendar": "Mise en lumière patrimoniale nocturne",
+      "architect": "Établissements Joseph Paris (1954)",
+      "keyFigures": [
+        { "label": "Force de levage", "value": "80 tonnes à 15 m" },
+        { "label": "Hauteur totale", "value": "43 mètres" },
+        { "label": "Poids total", "value": "400 tonnes" }
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Silhouette d'acier sculpturale sur les berges",
+          "credit": "Patrimoine Industriel Nantes"
+        }
+      ],
+      "links": [
+        { "title": "Patrimoine de la Ville de Nantes", "url": "https://metropole.nantes.fr" }
+      ],
+      "source_note": "Coordonnées géoréférencées vérifiées."
+    },
+    {
+      "id": "passerelle-schoelcher",
+      "name": "Passerelle Victor-Schœlcher",
+      "type": "poi",
+      "category": "Mobilité Douce",
+      "districtId": "sainte-anne-prairie",
+      "districtName": "Sainte-Anne & Prairie-au-Duc",
+      "coordinates": [-1.5629, 47.2084],
+      "coordinateConfirmed": true,
+      "shortDescription": "Pont piéton et cyclable reliant directement le centre historique au cœur de l'île de Nantes.",
+      "description": "Inaugurée en 2001 et conçue par les architectes Barto + Barto, la passerelle franchit le bras de la Madeleine sur 150 mètres. Elle offre une promenade paisible au-dessus de l'eau reliant le Mémorial de l'abolition de l'esclavage et le quai de la Fosse au Palais de Justice dessiné par Jean Nouvel.",
+      "status": "Accessible 24h/24",
+      "calendar": "Ouvert en continu",
+      "architect": "Barto + Barto Architectes",
+      "keyFigures": [
+        { "label": "Portée", "value": "150 mètres" },
+        { "label": "Usage", "value": "Piétons et cyclistes exclusivement" }
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Franchissement piétonnier au crépuscule",
+          "credit": "Nantes Métropole"
+        }
+      ],
+      "links": [
+        { "title": "Nantes Métropole - Déplacements doux", "url": "https://metropole.nantes.fr" }
+      ],
+      "source_note": "Coordonnées géoréférencées vérifiées."
+    },
+    {
+      "id": "conservatoire-beaulieu",
+      "name": "Conservatoire de Musique & Pôle Beaulieu",
+      "type": "poi",
+      "category": "Culture & Musique",
+      "districtId": "beaulieu-est",
+      "districtName": "Beaulieu & Pointe Est",
+      "coordinates": [-1.5342, 47.2109],
+      "coordinateConfirmed": true,
+      "shortDescription": "Conservatoire à Rayonnement Régional et cœur d'enseignement artistique de l'est insulaire.",
+      "description": "Bordant la Loire et l'axe central de Beaulieu, le Conservatoire de Nantes accueille près de 2 000 élèves dans les disciplines de musique, danse et art dramatique. Il dispose d'un auditorium moderne et participe à la réanimation culturelle du secteur est.",
+      "status": "En activité",
+      "calendar": "Saison de concerts d'élèves et de maîtres",
+      "architect": "Reconversion et réaménagements métropolitains",
+      "keyFigures": [
+        { "label": "Élèves", "value": "2 000 élèves" },
+        { "label": "Auditorium", "value": "300 places" }
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Espaces dédiés à l'apprentissage et à la création",
+          "credit": "Ville de Nantes"
+        }
+      ],
+      "links": [
+        { "title": "Conservatoire de Nantes", "url": "https://conservatoire.nantes.fr" }
+      ],
+      "source_note": "Coordonnées géoréférencées vérifiées."
+    },
+    {
+      "id": "projet-grand-chu",
+      "name": "Grand CHU de Nantes (Nouveau Quartier Hospitalier)",
+      "type": "project",
+      "category": "Urbanisme & Santé",
+      "districtId": "sud-ouest-chu",
+      "districtName": "Secteur Sud-Ouest & Grand CHU",
+      "coordinates": [-1.5558, 47.2014],
+      "coordinateConfirmed": true,
+      "shortDescription": "Le plus vaste chantier hospitalier universitaire de France : 225 000 m² dédiés au soin et à la recherche.",
+      "description": "Le nouvel hôpital regroupera l'Hôtel-Dieu et l'Hôpital Nord Laennec sur un campus unique de 10 hectares sur l'ancien site du MIN. Conçu par l'agence Art & Build avec Jean-Philippe Pargade, ce projet bioclimatique est centré sur le patient, la modularité en cas de crise sanitaire et l'ouverture sur les berges de Loire.",
+      "status": "Chantier en cours de gros œuvre & aménagements intérieurs",
+      "calendar": "Mise en service échelonnée 2026 - 2027",
+      "architect": "Art & Build Architectes / Jean-Philippe Pargade Architecte",
+      "keyFigures": [
+        { "label": "Surface de plancher", "value": "225 000 m²" },
+        { "label": "Lits et places", "value": "1 384 lits" },
+        { "label": "Emprise foncière", "value": "10,1 hectares" },
+        { "label": "Investissement global", "value": "> 1,25 milliard d'euros" }
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Campus hospitalier moderne et modularité technique",
+          "credit": "CHU de Nantes / Direction des grands travaux"
+        }
+      ],
+      "links": [
+        { "title": "Portail du projet du nouveau CHU", "url": "https://nouveau-chu-nantes.fr" },
+        { "title": "Samoa - Aménagement du quartier hospitalier", "url": "https://www.iledenantes.com/quartier-sud-ouest" }
+      ],
+      "source_note": "Coordonnées du centre géométrique du chantier vérifiées."
+    },
+    {
+      "id": "projet-prairie-duc-bois",
+      "name": "ZAC Prairie-au-Duc - Îlots Bois & Bas Carbone",
+      "type": "project",
+      "category": "Architecture & Écologie",
+      "districtId": "sainte-anne-prairie",
+      "districtName": "Sainte-Anne & Prairie-au-Duc",
+      "coordinates": [-1.5535, 47.2052],
+      "coordinateConfirmed": true,
+      "shortDescription": "Programme pionnier d'îlots résidentiels et tertiaires à ossature bois, matériaux biosourcés et cours paysagères.",
+      "description": "Le boulevard de la Prairie-au-Duc concrétise les engagements de la transition écologique métropolitaine : utilisation massive du bois et de la terre crue, toitures végétalisées, rétention des eaux pluviales à ciel ouvert et mixité sociale renforcée au cœur de venelles calmes réservées aux piétons.",
+      "status": "Phases de livraison successives (2024-2027)",
+      "calendar": "Dernières tranches en finalisation",
+      "architect": "Collectif d'agences d'architecture (Samoa / Nantes Métropole)",
+      "keyFigures": [
+        { "label": "Empreinte carbone", "value": "Réduction de 40% vs standard" },
+        { "label": "Logements prévus", "value": "> 1 500 logements mixtes" },
+        { "label": "Espaces plantés", "value": "Plus de 35% de pleine terre" }
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Construction durable et façades biosourcées",
+          "credit": "Urbanisme Durable Nantes"
+        }
+      ],
+      "links": [
+        { "title": "Samoa - Éco-quartier Prairie-au-Duc", "url": "https://www.iledenantes.com" }
+      ],
+      "source_note": "Coordonnées de l'îlot central vérifiées."
+    },
+    {
+      "id": "projet-reseau-tram",
+      "name": "Lignes de Tramway T6, T7, T8 & Pôle Multimodal",
+      "type": "project",
+      "category": "Mobilité Décarbonée",
+      "districtId": "republique-ponts",
+      "districtName": "République & Les Ponts",
+      "coordinates": [-1.5503, 47.2038],
+      "coordinateConfirmed": true,
+      "shortDescription": "Maillage structurant de transport collectif reliant le nord et le sud de l'agglomération via l'île.",
+      "description": "Le projet prévoit le déploiement de nouvelles lignes de tramway traversant l'île de Nantes pour desservir le nouveau CHU, les quartiers de la Prairie-au-Duc et relier Rezé, Saint-Herblain et le centre-ville sans passage obligatoire par la station Commerce. Des ponts et plateformes dédiés aux mobilités douces accompagnent le tracé.",
+      "status": "En phase de travaux préparatoires et d'infrastructures",
+      "calendar": "Mise en service programmée d'ici 2027-2028",
+      "architect": "Nantes Métropole / Semitan",
+      "keyFigures": [
+        { "label": "Nouvelles lignes", "value": "Lignes 6, 7 et 8" },
+        { "label": "Desserte", "value": "Accès direct au futur CHU" },
+        { "label": "Report modal estimé", "value": "+20 000 trajets/jour en TC" }
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Infrastructures de mobilité durable et tramway moderne",
+          "credit": "Naolib / Nantes Métropole"
+        }
+      ],
+      "links": [
+        { "title": "Nantes Métropole - Nouvelles lignes de tramway", "url": "https://metropole.nantes.fr" }
+      ],
+      "source_note": "Coordonnées du carrefour d'interconnexion vérifiées."
+    },
+    {
+      "id": "projet-parc-fluvial",
+      "name": "Parc Fluvial & Requalification des Berges Sud",
+      "type": "project",
+      "category": "Biodiversité & Nature",
+      "districtId": "pointe-ouest",
+      "districtName": "Pointe Ouest",
+      "coordinates": [-1.5695, 47.2023],
+      "coordinateConfirmed": true,
+      "shortDescription": "Restauration écologique des rives du bras de Pirmil et continuité piétonne en berge de Loire.",
+      "description": "Aménagement continu d'espaces renaturés, pontons en bois au fil de l'eau, zones humides de dépollution naturelle et pistes cyclables ombragées pour relier la pointe ouest au faubourg de la Prairie-au-Duc, favorisant la réapparition d'espèces d'oiseaux et d'insectes estuariens.",
+      "status": "Aménagements paysagers échelonnés",
+      "calendar": "2024 - 2026",
+      "architect": "Atelier Jacqueline Osty & associés, paysagistes",
+      "keyFigures": [
+        { "label": "Linéaire fluvial", "value": "1,8 km de berges" },
+        { "label": "Arbres plantés", "value": "> 800 nouveaux sujets indigènes" }
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Berges fluviales et corridors de fraîcheur végétalisés",
+          "credit": "Samoa Territoire"
+        }
+      ],
+      "links": [
+        { "title": "Samoa - La nature en ville", "url": "https://www.iledenantes.com" }
+      ],
+      "source_note": "Coordonnées vérifiées d'après les documents d'aménagement de la Samoa."
+    }
+  ]
+}

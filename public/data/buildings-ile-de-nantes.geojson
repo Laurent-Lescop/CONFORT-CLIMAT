@@ -1,0 +1,5337 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-1",
+        "name": "Les Grandes Nefs Dubigeon (Machines de l'Île)",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "industrial_heritage",
+        "categoryLabel": "Patrimoine industriel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5652000000000001,
+              47.20615
+            ],
+            [
+              -1.563,
+              47.20615
+            ],
+            [
+              -1.563,
+              47.206849999999996
+            ],
+            [
+              -1.5652000000000001,
+              47.206849999999996
+            ],
+            [
+              -1.5652000000000001,
+              47.20615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-2",
+        "name": "Nef Nord - Ateliers de construction",
+        "height": 18,
+        "min_height": 0,
+        "levels": 5,
+        "type": "industrial_heritage",
+        "categoryLabel": "Patrimoine industriel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5651,
+              47.2069
+            ],
+            [
+              -1.5631000000000002,
+              47.2069
+            ],
+            [
+              -1.5631000000000002,
+              47.2073
+            ],
+            [
+              -1.5651,
+              47.2073
+            ],
+            [
+              -1.5651,
+              47.2069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-3",
+        "name": "Nef Sud - Galerie des Machines",
+        "height": 17,
+        "min_height": 0,
+        "levels": 5,
+        "type": "industrial_heritage",
+        "categoryLabel": "Patrimoine industriel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.56505,
+              47.2057
+            ],
+            [
+              -1.56315,
+              47.2057
+            ],
+            [
+              -1.56315,
+              47.2061
+            ],
+            [
+              -1.56505,
+              47.2061
+            ],
+            [
+              -1.56505,
+              47.2057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-4",
+        "name": "Carrousel des Mondes Marins",
+        "height": 25,
+        "min_height": 0,
+        "levels": 7,
+        "type": "cultural",
+        "categoryLabel": "Lieu culturel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5691249999999999,
+              47.20547500000001
+            ],
+            [
+              -1.568475,
+              47.20547500000001
+            ],
+            [
+              -1.568475,
+              47.206125
+            ],
+            [
+              -1.5691249999999999,
+              47.206125
+            ],
+            [
+              -1.5691249999999999,
+              47.20547500000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-5",
+        "name": "Maison des Hommes et des Techniques",
+        "height": 14,
+        "min_height": 0,
+        "levels": 4,
+        "type": "cultural",
+        "categoryLabel": "Patrimoine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5667,
+              47.20615
+            ],
+            [
+              -1.5659,
+              47.20615
+            ],
+            [
+              -1.5659,
+              47.20665
+            ],
+            [
+              -1.5667,
+              47.20665
+            ],
+            [
+              -1.5667,
+              47.20615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-6",
+        "name": "Grue Titan Jaune (Monument)",
+        "height": 43,
+        "min_height": 0,
+        "levels": 12,
+        "type": "industrial_heritage",
+        "categoryLabel": "Monument Historique"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.568375,
+              47.204425
+            ],
+            [
+              -1.568025,
+              47.204425
+            ],
+            [
+              -1.568025,
+              47.204775
+            ],
+            [
+              -1.568375,
+              47.204775
+            ],
+            [
+              -1.568375,
+              47.204425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-7",
+        "name": "Boutique & Café de la Branche",
+        "height": 11,
+        "min_height": 0,
+        "levels": 3,
+        "type": "cultural",
+        "categoryLabel": "Équipement public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.56755,
+              47.2051
+            ],
+            [
+              -1.5668499999999999,
+              47.2051
+            ],
+            [
+              -1.5668499999999999,
+              47.2055
+            ],
+            [
+              -1.56755,
+              47.2055
+            ],
+            [
+              -1.56755,
+              47.2051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-8",
+        "name": "La Cale 2 Créateurs",
+        "height": 15,
+        "min_height": 0,
+        "levels": 4,
+        "type": "office",
+        "categoryLabel": "Activités créatives"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5624500000000001,
+              47.20655
+            ],
+            [
+              -1.56155,
+              47.20655
+            ],
+            [
+              -1.56155,
+              47.20705
+            ],
+            [
+              -1.5624500000000001,
+              47.20705
+            ],
+            [
+              -1.5624500000000001,
+              47.20655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-9",
+        "name": "ENSA Nantes (École Nationale d'Architecture)",
+        "height": 30,
+        "min_height": 0,
+        "levels": 9,
+        "type": "educational",
+        "categoryLabel": "Enseignement supérieur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5598999999999998,
+              47.206649999999996
+            ],
+            [
+              -1.5583,
+              47.206649999999996
+            ],
+            [
+              -1.5583,
+              47.20755
+            ],
+            [
+              -1.5598999999999998,
+              47.20755
+            ],
+            [
+              -1.5598999999999998,
+              47.206649999999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-10",
+        "name": "Halles Alstom - École des Beaux-Arts",
+        "height": 18,
+        "min_height": 0,
+        "levels": 5,
+        "type": "educational",
+        "categoryLabel": "Enseignement artistique"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5593,
+              47.2058
+            ],
+            [
+              -1.5573000000000001,
+              47.2058
+            ],
+            [
+              -1.5573000000000001,
+              47.2066
+            ],
+            [
+              -1.5593,
+              47.2066
+            ],
+            [
+              -1.5593,
+              47.2058
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-11",
+        "name": "Stereolux & La Fabrique",
+        "height": 20,
+        "min_height": 0,
+        "levels": 6,
+        "type": "cultural",
+        "categoryLabel": "Scène musicale & numérique"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.56135,
+              47.204950000000004
+            ],
+            [
+              -1.56025,
+              47.204950000000004
+            ],
+            [
+              -1.56025,
+              47.20565
+            ],
+            [
+              -1.56135,
+              47.20565
+            ],
+            [
+              -1.56135,
+              47.204950000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-12",
+        "name": "Mediacampus",
+        "height": 22,
+        "min_height": 0,
+        "levels": 6,
+        "type": "educational",
+        "categoryLabel": "Pôle communication"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55785,
+              47.205099999999995
+            ],
+            [
+              -1.5569499999999998,
+              47.205099999999995
+            ],
+            [
+              -1.5569499999999998,
+              47.2057
+            ],
+            [
+              -1.55785,
+              47.2057
+            ],
+            [
+              -1.55785,
+              47.205099999999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-13",
+        "name": "Halle 6 Ouest - Pôle Numérique",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "office",
+        "categoryLabel": "Pépinière numérique"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5571,
+              47.2061
+            ],
+            [
+              -1.5561,
+              47.2061
+            ],
+            [
+              -1.5561,
+              47.206700000000005
+            ],
+            [
+              -1.5571,
+              47.206700000000005
+            ],
+            [
+              -1.5571,
+              47.2061
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-14",
+        "name": "École de Design Nantes Atlantique",
+        "height": 20,
+        "min_height": 0,
+        "levels": 6,
+        "type": "educational",
+        "categoryLabel": "Design & Innovation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5566,
+              47.20555
+            ],
+            [
+              -1.5558,
+              47.20555
+            ],
+            [
+              -1.5558,
+              47.206050000000005
+            ],
+            [
+              -1.5566,
+              47.206050000000005
+            ],
+            [
+              -1.5566,
+              47.20555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-15",
+        "name": "Ateliers Magellan",
+        "height": 18,
+        "min_height": 0,
+        "levels": 5,
+        "type": "office",
+        "categoryLabel": "Tertiaire créatif"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5583,
+              47.20455
+            ],
+            [
+              -1.5575,
+              47.20455
+            ],
+            [
+              -1.5575,
+              47.20505
+            ],
+            [
+              -1.5583,
+              47.20505
+            ],
+            [
+              -1.5583,
+              47.20455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-16",
+        "name": "Palais de Justice de Nantes (Jean Nouvel)",
+        "height": 21,
+        "min_height": 0,
+        "levels": 6,
+        "type": "office",
+        "categoryLabel": "Institution judiciaire"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5624,
+              47.208149999999996
+            ],
+            [
+              -1.5606000000000002,
+              47.208149999999996
+            ],
+            [
+              -1.5606000000000002,
+              47.20905
+            ],
+            [
+              -1.5624,
+              47.20905
+            ],
+            [
+              -1.5624,
+              47.208149999999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-17",
+        "name": "Hôtel des Douanes",
+        "height": 16,
+        "min_height": 0,
+        "levels": 5,
+        "type": "office",
+        "categoryLabel": "Bâtiment administratif"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5639999999999998,
+              47.207899999999995
+            ],
+            [
+              -1.563,
+              47.207899999999995
+            ],
+            [
+              -1.563,
+              47.2085
+            ],
+            [
+              -1.5639999999999998,
+              47.2085
+            ],
+            [
+              -1.5639999999999998,
+              47.207899999999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-18",
+        "name": "Maison de l'Avocat",
+        "height": 19,
+        "min_height": 0,
+        "levels": 5,
+        "type": "office",
+        "categoryLabel": "Services juridiques"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5602,
+              47.208549999999995
+            ],
+            [
+              -1.5594000000000001,
+              47.208549999999995
+            ],
+            [
+              -1.5594000000000001,
+              47.20905
+            ],
+            [
+              -1.5602,
+              47.20905
+            ],
+            [
+              -1.5602,
+              47.208549999999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-19",
+        "name": "Hangar à Bananes (Quai des Antilles)",
+        "height": 12,
+        "min_height": 0,
+        "levels": 3,
+        "type": "cultural",
+        "categoryLabel": "Lieu festif & art contemporain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.57565,
+              47.200375
+            ],
+            [
+              -1.5721500000000002,
+              47.200375
+            ],
+            [
+              -1.5721500000000002,
+              47.200825
+            ],
+            [
+              -1.57565,
+              47.200825
+            ],
+            [
+              -1.57565,
+              47.200375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-20",
+        "name": "Grue Noire (Titan)",
+        "height": 38,
+        "min_height": 0,
+        "levels": 11,
+        "type": "industrial_heritage",
+        "categoryLabel": "Monument maritime"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.575675,
+              47.199625000000005
+            ],
+            [
+              -1.5753249999999999,
+              47.199625000000005
+            ],
+            [
+              -1.5753249999999999,
+              47.199975
+            ],
+            [
+              -1.575675,
+              47.199975
+            ],
+            [
+              -1.575675,
+              47.199625000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-21",
+        "name": "La Cantine du Voyage",
+        "height": 9,
+        "min_height": 0,
+        "levels": 3,
+        "type": "cultural",
+        "categoryLabel": "Tiers-lieu estival"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5724,
+              47.2012
+            ],
+            [
+              -1.5712000000000002,
+              47.2012
+            ],
+            [
+              -1.5712000000000002,
+              47.2016
+            ],
+            [
+              -1.5724,
+              47.2016
+            ],
+            [
+              -1.5724,
+              47.2012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-22",
+        "name": "Le Jardin Fluvial",
+        "height": 11,
+        "min_height": 0,
+        "levels": 3,
+        "type": "cultural",
+        "categoryLabel": "Espace événementiel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.571,
+              47.20175
+            ],
+            [
+              -1.57,
+              47.20175
+            ],
+            [
+              -1.57,
+              47.20225
+            ],
+            [
+              -1.571,
+              47.20225
+            ],
+            [
+              -1.571,
+              47.20175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-23",
+        "name": "Grand CHU de Nantes - Cœur médico-technique",
+        "height": 36,
+        "min_height": 0,
+        "levels": 10,
+        "type": "hospital",
+        "categoryLabel": "Établissement de santé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5574000000000001,
+              47.2005
+            ],
+            [
+              -1.5542,
+              47.2005
+            ],
+            [
+              -1.5542,
+              47.2023
+            ],
+            [
+              -1.5574000000000001,
+              47.2023
+            ],
+            [
+              -1.5574000000000001,
+              47.2005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-24",
+        "name": "CHU - Pôle Urgences & Réanimation",
+        "height": 28,
+        "min_height": 0,
+        "levels": 8,
+        "type": "hospital",
+        "categoryLabel": "Pôle hospitalier"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55455,
+              47.2018
+            ],
+            [
+              -1.55305,
+              47.2018
+            ],
+            [
+              -1.55305,
+              47.2028
+            ],
+            [
+              -1.55455,
+              47.2028
+            ],
+            [
+              -1.55455,
+              47.2018
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-25",
+        "name": "CHU - Pôle Biologie & Recherche",
+        "height": 26,
+        "min_height": 0,
+        "levels": 7,
+        "type": "hospital",
+        "categoryLabel": "Recherche médicale"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5585,
+              47.202149999999996
+            ],
+            [
+              -1.5571000000000002,
+              47.202149999999996
+            ],
+            [
+              -1.5571000000000002,
+              47.20305
+            ],
+            [
+              -1.5585,
+              47.20305
+            ],
+            [
+              -1.5585,
+              47.202149999999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-26",
+        "name": "CHU - Centre Logistique & Énergie",
+        "height": 18,
+        "min_height": 0,
+        "levels": 5,
+        "type": "hospital",
+        "categoryLabel": "Logistique"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.555,
+              47.1999
+            ],
+            [
+              -1.5534000000000001,
+              47.1999
+            ],
+            [
+              -1.5534000000000001,
+              47.2007
+            ],
+            [
+              -1.555,
+              47.2007
+            ],
+            [
+              -1.555,
+              47.1999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-27",
+        "name": "Faculté de Médecine & Maïeutique",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "hospital",
+        "categoryLabel": "Campus universitaire de santé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5597999999999999,
+              47.20145
+            ],
+            [
+              -1.5586,
+              47.20145
+            ],
+            [
+              -1.5586,
+              47.202149999999996
+            ],
+            [
+              -1.5597999999999999,
+              47.202149999999996
+            ],
+            [
+              -1.5597999999999999,
+              47.20145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-28",
+        "name": "Résidence des Internes & Professionnels",
+        "height": 22,
+        "min_height": 0,
+        "levels": 6,
+        "type": "office",
+        "categoryLabel": "Hébergement soignants"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55275,
+              47.20085
+            ],
+            [
+              -1.55165,
+              47.20085
+            ],
+            [
+              -1.55165,
+              47.20155
+            ],
+            [
+              -1.55275,
+              47.20155
+            ],
+            [
+              -1.55275,
+              47.20085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-29",
+        "name": "Îlot Bois Prairie-au-Duc A",
+        "height": 28,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Logements durables"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.555,
+              47.204875
+            ],
+            [
+              -1.554,
+              47.204875
+            ],
+            [
+              -1.554,
+              47.205524999999994
+            ],
+            [
+              -1.555,
+              47.205524999999994
+            ],
+            [
+              -1.555,
+              47.204875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-30",
+        "name": "Îlot Bois Prairie-au-Duc B",
+        "height": 35,
+        "min_height": 0,
+        "levels": 10,
+        "type": "residential",
+        "categoryLabel": "Logements durables"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55365,
+              47.205099999999995
+            ],
+            [
+              -1.5527499999999999,
+              47.205099999999995
+            ],
+            [
+              -1.5527499999999999,
+              47.2057
+            ],
+            [
+              -1.55365,
+              47.2057
+            ],
+            [
+              -1.55365,
+              47.205099999999995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-31",
+        "name": "Tour Résidentielle Prairie 360",
+        "height": 42,
+        "min_height": 0,
+        "levels": 12,
+        "type": "residential",
+        "categoryLabel": "Logements durables"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5524,
+              47.20525
+            ],
+            [
+              -1.5516,
+              47.20525
+            ],
+            [
+              -1.5516,
+              47.205949999999994
+            ],
+            [
+              -1.5524,
+              47.205949999999994
+            ],
+            [
+              -1.5524,
+              47.20525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-32",
+        "name": "Îlot Mixte Prairie Est",
+        "height": 26,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Logements durables"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55145,
+              47.2055
+            ],
+            [
+              -1.5505499999999999,
+              47.2055
+            ],
+            [
+              -1.5505499999999999,
+              47.206100000000006
+            ],
+            [
+              -1.55145,
+              47.206100000000006
+            ],
+            [
+              -1.55145,
+              47.2055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-33",
+        "name": "Résidence Bas Carbone C1",
+        "height": 22,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Logements durables"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55445,
+              47.2042
+            ],
+            [
+              -1.55355,
+              47.2042
+            ],
+            [
+              -1.55355,
+              47.204800000000006
+            ],
+            [
+              -1.55445,
+              47.204800000000006
+            ],
+            [
+              -1.55445,
+              47.2042
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-34",
+        "name": "Résidence Bas Carbone C2",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Logements durables"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55325,
+              47.204425
+            ],
+            [
+              -1.55235,
+              47.204425
+            ],
+            [
+              -1.55235,
+              47.204975000000005
+            ],
+            [
+              -1.55325,
+              47.204975000000005
+            ],
+            [
+              -1.55325,
+              47.204425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-35",
+        "name": "Îlot Tertiaire & Groupe Scolaire Aimé Césaire",
+        "height": 30,
+        "min_height": 0,
+        "levels": 9,
+        "type": "residential",
+        "categoryLabel": "Logements durables"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5520500000000002,
+              47.204575000000006
+            ],
+            [
+              -1.55095,
+              47.204575000000006
+            ],
+            [
+              -1.55095,
+              47.205225
+            ],
+            [
+              -1.5520500000000002,
+              47.205225
+            ],
+            [
+              -1.5520500000000002,
+              47.204575000000006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-36",
+        "name": "Logements Durables Prairie D",
+        "height": 25,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Logements durables"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55065,
+              47.204825
+            ],
+            [
+              -1.54975,
+              47.204825
+            ],
+            [
+              -1.54975,
+              47.205375000000004
+            ],
+            [
+              -1.55065,
+              47.205375000000004
+            ],
+            [
+              -1.55065,
+              47.204825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-37",
+        "name": "Immeuble Unik (Bocklé & Assoc.)",
+        "height": 27,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Logements durables"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5495999999999999,
+              47.205025
+            ],
+            [
+              -1.5488,
+              47.205025
+            ],
+            [
+              -1.5488,
+              47.205575
+            ],
+            [
+              -1.5495999999999999,
+              47.205575
+            ],
+            [
+              -1.5495999999999999,
+              47.205025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-38",
+        "height": 15,
+        "min_height": 0,
+        "levels": 4,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55,
+              47.20385
+            ],
+            [
+              -1.5490000000000002,
+              47.20385
+            ],
+            [
+              -1.5490000000000002,
+              47.20455
+            ],
+            [
+              -1.55,
+              47.20455
+            ],
+            [
+              -1.55,
+              47.20385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-39",
+        "height": 22,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55,
+              47.20485
+            ],
+            [
+              -1.5490000000000002,
+              47.20485
+            ],
+            [
+              -1.5490000000000002,
+              47.205549999999995
+            ],
+            [
+              -1.55,
+              47.205549999999995
+            ],
+            [
+              -1.55,
+              47.20485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-40",
+        "height": 15,
+        "min_height": 0,
+        "levels": 4,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55,
+              47.205850000000005
+            ],
+            [
+              -1.5490000000000002,
+              47.205850000000005
+            ],
+            [
+              -1.5490000000000002,
+              47.20655
+            ],
+            [
+              -1.55,
+              47.20655
+            ],
+            [
+              -1.55,
+              47.205850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-41",
+        "height": 22,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55,
+              47.20685
+            ],
+            [
+              -1.5490000000000002,
+              47.20685
+            ],
+            [
+              -1.5490000000000002,
+              47.20755
+            ],
+            [
+              -1.55,
+              47.20755
+            ],
+            [
+              -1.55,
+              47.20685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-42",
+        "height": 15,
+        "min_height": 0,
+        "levels": 4,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55,
+              47.20785
+            ],
+            [
+              -1.5490000000000002,
+              47.20785
+            ],
+            [
+              -1.5490000000000002,
+              47.208549999999995
+            ],
+            [
+              -1.55,
+              47.208549999999995
+            ],
+            [
+              -1.55,
+              47.20785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-43",
+        "height": 22,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55,
+              47.208850000000005
+            ],
+            [
+              -1.5490000000000002,
+              47.208850000000005
+            ],
+            [
+              -1.5490000000000002,
+              47.20955
+            ],
+            [
+              -1.55,
+              47.20955
+            ],
+            [
+              -1.55,
+              47.208850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-44",
+        "height": 18,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5487,
+              47.20385
+            ],
+            [
+              -1.5477,
+              47.20385
+            ],
+            [
+              -1.5477,
+              47.20455
+            ],
+            [
+              -1.5487,
+              47.20455
+            ],
+            [
+              -1.5487,
+              47.20385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-45",
+        "height": 25,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5487,
+              47.20485
+            ],
+            [
+              -1.5477,
+              47.20485
+            ],
+            [
+              -1.5477,
+              47.205549999999995
+            ],
+            [
+              -1.5487,
+              47.205549999999995
+            ],
+            [
+              -1.5487,
+              47.20485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-46",
+        "height": 18,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5487,
+              47.205850000000005
+            ],
+            [
+              -1.5477,
+              47.205850000000005
+            ],
+            [
+              -1.5477,
+              47.20655
+            ],
+            [
+              -1.5487,
+              47.20655
+            ],
+            [
+              -1.5487,
+              47.205850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-47",
+        "height": 25,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5487,
+              47.20685
+            ],
+            [
+              -1.5477,
+              47.20685
+            ],
+            [
+              -1.5477,
+              47.20755
+            ],
+            [
+              -1.5487,
+              47.20755
+            ],
+            [
+              -1.5487,
+              47.20685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-48",
+        "height": 18,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5487,
+              47.20785
+            ],
+            [
+              -1.5477,
+              47.20785
+            ],
+            [
+              -1.5477,
+              47.208549999999995
+            ],
+            [
+              -1.5487,
+              47.208549999999995
+            ],
+            [
+              -1.5487,
+              47.20785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-49",
+        "height": 25,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5487,
+              47.208850000000005
+            ],
+            [
+              -1.5477,
+              47.208850000000005
+            ],
+            [
+              -1.5477,
+              47.20955
+            ],
+            [
+              -1.5487,
+              47.20955
+            ],
+            [
+              -1.5487,
+              47.208850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-50",
+        "height": 21,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5474,
+              47.20385
+            ],
+            [
+              -1.5464000000000002,
+              47.20385
+            ],
+            [
+              -1.5464000000000002,
+              47.20455
+            ],
+            [
+              -1.5474,
+              47.20455
+            ],
+            [
+              -1.5474,
+              47.20385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-51",
+        "height": 28,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5474,
+              47.20485
+            ],
+            [
+              -1.5464000000000002,
+              47.20485
+            ],
+            [
+              -1.5464000000000002,
+              47.205549999999995
+            ],
+            [
+              -1.5474,
+              47.205549999999995
+            ],
+            [
+              -1.5474,
+              47.20485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-52",
+        "height": 21,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5474,
+              47.205850000000005
+            ],
+            [
+              -1.5464000000000002,
+              47.205850000000005
+            ],
+            [
+              -1.5464000000000002,
+              47.20655
+            ],
+            [
+              -1.5474,
+              47.20655
+            ],
+            [
+              -1.5474,
+              47.205850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-53",
+        "height": 28,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5474,
+              47.20685
+            ],
+            [
+              -1.5464000000000002,
+              47.20685
+            ],
+            [
+              -1.5464000000000002,
+              47.20755
+            ],
+            [
+              -1.5474,
+              47.20755
+            ],
+            [
+              -1.5474,
+              47.20685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-54",
+        "height": 21,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5474,
+              47.20785
+            ],
+            [
+              -1.5464000000000002,
+              47.20785
+            ],
+            [
+              -1.5464000000000002,
+              47.208549999999995
+            ],
+            [
+              -1.5474,
+              47.208549999999995
+            ],
+            [
+              -1.5474,
+              47.20785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-55",
+        "height": 28,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5474,
+              47.208850000000005
+            ],
+            [
+              -1.5464000000000002,
+              47.208850000000005
+            ],
+            [
+              -1.5464000000000002,
+              47.20955
+            ],
+            [
+              -1.5474,
+              47.20955
+            ],
+            [
+              -1.5474,
+              47.208850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-56",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5461,
+              47.20385
+            ],
+            [
+              -1.5451000000000001,
+              47.20385
+            ],
+            [
+              -1.5451000000000001,
+              47.20455
+            ],
+            [
+              -1.5461,
+              47.20455
+            ],
+            [
+              -1.5461,
+              47.20385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-57",
+        "height": 17,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5461,
+              47.20485
+            ],
+            [
+              -1.5451000000000001,
+              47.20485
+            ],
+            [
+              -1.5451000000000001,
+              47.205549999999995
+            ],
+            [
+              -1.5461,
+              47.205549999999995
+            ],
+            [
+              -1.5461,
+              47.20485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-58",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5461,
+              47.205850000000005
+            ],
+            [
+              -1.5451000000000001,
+              47.205850000000005
+            ],
+            [
+              -1.5451000000000001,
+              47.20655
+            ],
+            [
+              -1.5461,
+              47.20655
+            ],
+            [
+              -1.5461,
+              47.205850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-59",
+        "height": 17,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5461,
+              47.20685
+            ],
+            [
+              -1.5451000000000001,
+              47.20685
+            ],
+            [
+              -1.5451000000000001,
+              47.20755
+            ],
+            [
+              -1.5461,
+              47.20755
+            ],
+            [
+              -1.5461,
+              47.20685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-60",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5461,
+              47.20785
+            ],
+            [
+              -1.5451000000000001,
+              47.20785
+            ],
+            [
+              -1.5451000000000001,
+              47.208549999999995
+            ],
+            [
+              -1.5461,
+              47.208549999999995
+            ],
+            [
+              -1.5461,
+              47.20785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-61",
+        "height": 17,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5461,
+              47.208850000000005
+            ],
+            [
+              -1.5451000000000001,
+              47.208850000000005
+            ],
+            [
+              -1.5451000000000001,
+              47.20955
+            ],
+            [
+              -1.5461,
+              47.20955
+            ],
+            [
+              -1.5461,
+              47.208850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-62",
+        "height": 27,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5448,
+              47.20385
+            ],
+            [
+              -1.5438,
+              47.20385
+            ],
+            [
+              -1.5438,
+              47.20455
+            ],
+            [
+              -1.5448,
+              47.20455
+            ],
+            [
+              -1.5448,
+              47.20385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-63",
+        "height": 20,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5448,
+              47.20485
+            ],
+            [
+              -1.5438,
+              47.20485
+            ],
+            [
+              -1.5438,
+              47.205549999999995
+            ],
+            [
+              -1.5448,
+              47.205549999999995
+            ],
+            [
+              -1.5448,
+              47.20485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-64",
+        "height": 27,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5448,
+              47.205850000000005
+            ],
+            [
+              -1.5438,
+              47.205850000000005
+            ],
+            [
+              -1.5438,
+              47.20655
+            ],
+            [
+              -1.5448,
+              47.20655
+            ],
+            [
+              -1.5448,
+              47.205850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-65",
+        "height": 20,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5448,
+              47.20685
+            ],
+            [
+              -1.5438,
+              47.20685
+            ],
+            [
+              -1.5438,
+              47.20755
+            ],
+            [
+              -1.5448,
+              47.20755
+            ],
+            [
+              -1.5448,
+              47.20685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-66",
+        "height": 27,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5448,
+              47.20785
+            ],
+            [
+              -1.5438,
+              47.20785
+            ],
+            [
+              -1.5438,
+              47.208549999999995
+            ],
+            [
+              -1.5448,
+              47.208549999999995
+            ],
+            [
+              -1.5448,
+              47.20785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-67",
+        "height": 20,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5448,
+              47.208850000000005
+            ],
+            [
+              -1.5438,
+              47.208850000000005
+            ],
+            [
+              -1.5438,
+              47.20955
+            ],
+            [
+              -1.5448,
+              47.20955
+            ],
+            [
+              -1.5448,
+              47.208850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-68",
+        "height": 16,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5435,
+              47.20385
+            ],
+            [
+              -1.5425000000000002,
+              47.20385
+            ],
+            [
+              -1.5425000000000002,
+              47.20455
+            ],
+            [
+              -1.5435,
+              47.20455
+            ],
+            [
+              -1.5435,
+              47.20385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-69",
+        "height": 23,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5435,
+              47.20485
+            ],
+            [
+              -1.5425000000000002,
+              47.20485
+            ],
+            [
+              -1.5425000000000002,
+              47.205549999999995
+            ],
+            [
+              -1.5435,
+              47.205549999999995
+            ],
+            [
+              -1.5435,
+              47.20485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-70",
+        "height": 16,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5435,
+              47.205850000000005
+            ],
+            [
+              -1.5425000000000002,
+              47.205850000000005
+            ],
+            [
+              -1.5425000000000002,
+              47.20655
+            ],
+            [
+              -1.5435,
+              47.20655
+            ],
+            [
+              -1.5435,
+              47.205850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-71",
+        "height": 23,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5435,
+              47.20685
+            ],
+            [
+              -1.5425000000000002,
+              47.20685
+            ],
+            [
+              -1.5425000000000002,
+              47.20755
+            ],
+            [
+              -1.5435,
+              47.20755
+            ],
+            [
+              -1.5435,
+              47.20685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-72",
+        "height": 16,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5435,
+              47.20785
+            ],
+            [
+              -1.5425000000000002,
+              47.20785
+            ],
+            [
+              -1.5425000000000002,
+              47.208549999999995
+            ],
+            [
+              -1.5435,
+              47.208549999999995
+            ],
+            [
+              -1.5435,
+              47.20785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-73",
+        "height": 23,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5435,
+              47.208850000000005
+            ],
+            [
+              -1.5425000000000002,
+              47.208850000000005
+            ],
+            [
+              -1.5425000000000002,
+              47.20955
+            ],
+            [
+              -1.5435,
+              47.20955
+            ],
+            [
+              -1.5435,
+              47.208850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-74",
+        "height": 19,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5422,
+              47.20385
+            ],
+            [
+              -1.5412000000000001,
+              47.20385
+            ],
+            [
+              -1.5412000000000001,
+              47.20455
+            ],
+            [
+              -1.5422,
+              47.20455
+            ],
+            [
+              -1.5422,
+              47.20385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-75",
+        "height": 26,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5422,
+              47.20485
+            ],
+            [
+              -1.5412000000000001,
+              47.20485
+            ],
+            [
+              -1.5412000000000001,
+              47.205549999999995
+            ],
+            [
+              -1.5422,
+              47.205549999999995
+            ],
+            [
+              -1.5422,
+              47.20485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-76",
+        "height": 19,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5422,
+              47.205850000000005
+            ],
+            [
+              -1.5412000000000001,
+              47.205850000000005
+            ],
+            [
+              -1.5412000000000001,
+              47.20655
+            ],
+            [
+              -1.5422,
+              47.20655
+            ],
+            [
+              -1.5422,
+              47.205850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-77",
+        "height": 26,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5422,
+              47.20685
+            ],
+            [
+              -1.5412000000000001,
+              47.20685
+            ],
+            [
+              -1.5412000000000001,
+              47.20755
+            ],
+            [
+              -1.5422,
+              47.20755
+            ],
+            [
+              -1.5422,
+              47.20685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-78",
+        "height": 19,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5422,
+              47.20785
+            ],
+            [
+              -1.5412000000000001,
+              47.20785
+            ],
+            [
+              -1.5412000000000001,
+              47.208549999999995
+            ],
+            [
+              -1.5422,
+              47.208549999999995
+            ],
+            [
+              -1.5422,
+              47.20785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-79",
+        "height": 26,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Faubourg urbain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5422,
+              47.208850000000005
+            ],
+            [
+              -1.5412000000000001,
+              47.208850000000005
+            ],
+            [
+              -1.5412000000000001,
+              47.20955
+            ],
+            [
+              -1.5422,
+              47.20955
+            ],
+            [
+              -1.5422,
+              47.208850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-80",
+        "name": "Conservatoire à Rayonnement Régional de Nantes",
+        "height": 17,
+        "min_height": 0,
+        "levels": 5,
+        "type": "cultural",
+        "categoryLabel": "Conservatoire de musique"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53495,
+              47.21045
+            ],
+            [
+              -1.53345,
+              47.21045
+            ],
+            [
+              -1.53345,
+              47.21135
+            ],
+            [
+              -1.53495,
+              47.21135
+            ],
+            [
+              -1.53495,
+              47.21045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-81",
+        "name": "Centre Commercial Beaulieu",
+        "height": 14,
+        "min_height": 0,
+        "levels": 4,
+        "type": "commercial",
+        "categoryLabel": "Centre commercial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5319,
+              47.2093
+            ],
+            [
+              -1.5291,
+              47.2093
+            ],
+            [
+              -1.5291,
+              47.2111
+            ],
+            [
+              -1.5319,
+              47.2111
+            ],
+            [
+              -1.5319,
+              47.2093
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-82",
+        "name": "Tour Beaulieu",
+        "height": 52,
+        "min_height": 0,
+        "levels": 15,
+        "type": "office",
+        "categoryLabel": "Tour de bureaux"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.533,
+              47.2091
+            ],
+            [
+              -1.532,
+              47.2091
+            ],
+            [
+              -1.532,
+              47.2099
+            ],
+            [
+              -1.533,
+              47.2099
+            ],
+            [
+              -1.533,
+              47.2091
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-83",
+        "name": "Immeuble Le Tripode / Berges",
+        "height": 38,
+        "min_height": 0,
+        "levels": 11,
+        "type": "office",
+        "categoryLabel": "Pôle tertiaire"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5291,
+              47.2094
+            ],
+            [
+              -1.5279,
+              47.2094
+            ],
+            [
+              -1.5279,
+              47.2102
+            ],
+            [
+              -1.5291,
+              47.2102
+            ],
+            [
+              -1.5291,
+              47.2094
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-84",
+        "name": "Pôle Tertiaire Est A",
+        "height": 32,
+        "min_height": 0,
+        "levels": 9,
+        "type": "office",
+        "categoryLabel": "Pôle tertiaire"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.52755,
+              47.210150000000006
+            ],
+            [
+              -1.5264499999999999,
+              47.210150000000006
+            ],
+            [
+              -1.5264499999999999,
+              47.21085
+            ],
+            [
+              -1.52755,
+              47.21085
+            ],
+            [
+              -1.52755,
+              47.210150000000006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-85",
+        "name": "Résidence des Bords de Loire",
+        "height": 28,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Résidence contemporaine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.526,
+              47.21085
+            ],
+            [
+              -1.5250000000000001,
+              47.21085
+            ],
+            [
+              -1.5250000000000001,
+              47.211549999999995
+            ],
+            [
+              -1.526,
+              47.211549999999995
+            ],
+            [
+              -1.526,
+              47.21085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-86",
+        "name": "Centre Administratif Beaulieu",
+        "height": 25,
+        "min_height": 0,
+        "levels": 7,
+        "type": "office",
+        "categoryLabel": "Services publics"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53565,
+              47.2094
+            ],
+            [
+              -1.5343499999999999,
+              47.2094
+            ],
+            [
+              -1.5343499999999999,
+              47.2102
+            ],
+            [
+              -1.53565,
+              47.2102
+            ],
+            [
+              -1.53565,
+              47.2094
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-87",
+        "height": 18,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53755,
+              47.206875000000004
+            ],
+            [
+              -1.5364499999999999,
+              47.206875000000004
+            ],
+            [
+              -1.5364499999999999,
+              47.207525
+            ],
+            [
+              -1.53755,
+              47.207525
+            ],
+            [
+              -1.53755,
+              47.206875000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-88",
+        "height": 21,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53755,
+              47.207775000000005
+            ],
+            [
+              -1.5364499999999999,
+              47.207775000000005
+            ],
+            [
+              -1.5364499999999999,
+              47.208425
+            ],
+            [
+              -1.53755,
+              47.208425
+            ],
+            [
+              -1.53755,
+              47.207775000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-89",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53755,
+              47.20867500000001
+            ],
+            [
+              -1.5364499999999999,
+              47.20867500000001
+            ],
+            [
+              -1.5364499999999999,
+              47.209325
+            ],
+            [
+              -1.53755,
+              47.209325
+            ],
+            [
+              -1.53755,
+              47.20867500000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-90",
+        "height": 27,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53755,
+              47.209575
+            ],
+            [
+              -1.5364499999999999,
+              47.209575
+            ],
+            [
+              -1.5364499999999999,
+              47.210224999999994
+            ],
+            [
+              -1.53755,
+              47.210224999999994
+            ],
+            [
+              -1.53755,
+              47.209575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-91",
+        "height": 30,
+        "min_height": 0,
+        "levels": 9,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53755,
+              47.210475
+            ],
+            [
+              -1.5364499999999999,
+              47.210475
+            ],
+            [
+              -1.5364499999999999,
+              47.211124999999996
+            ],
+            [
+              -1.53755,
+              47.211124999999996
+            ],
+            [
+              -1.53755,
+              47.210475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-92",
+        "height": 23,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53615,
+              47.206875000000004
+            ],
+            [
+              -1.5350499999999998,
+              47.206875000000004
+            ],
+            [
+              -1.5350499999999998,
+              47.207525
+            ],
+            [
+              -1.53615,
+              47.207525
+            ],
+            [
+              -1.53615,
+              47.206875000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-93",
+        "height": 26,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53615,
+              47.207775000000005
+            ],
+            [
+              -1.5350499999999998,
+              47.207775000000005
+            ],
+            [
+              -1.5350499999999998,
+              47.208425
+            ],
+            [
+              -1.53615,
+              47.208425
+            ],
+            [
+              -1.53615,
+              47.207775000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-94",
+        "height": 29,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53615,
+              47.20867500000001
+            ],
+            [
+              -1.5350499999999998,
+              47.20867500000001
+            ],
+            [
+              -1.5350499999999998,
+              47.209325
+            ],
+            [
+              -1.53615,
+              47.209325
+            ],
+            [
+              -1.53615,
+              47.20867500000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-95",
+        "height": 32,
+        "min_height": 0,
+        "levels": 9,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53615,
+              47.209575
+            ],
+            [
+              -1.5350499999999998,
+              47.209575
+            ],
+            [
+              -1.5350499999999998,
+              47.210224999999994
+            ],
+            [
+              -1.53615,
+              47.210224999999994
+            ],
+            [
+              -1.53615,
+              47.209575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-96",
+        "height": 35,
+        "min_height": 0,
+        "levels": 10,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53615,
+              47.210475
+            ],
+            [
+              -1.5350499999999998,
+              47.210475
+            ],
+            [
+              -1.5350499999999998,
+              47.211124999999996
+            ],
+            [
+              -1.53615,
+              47.211124999999996
+            ],
+            [
+              -1.53615,
+              47.210475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-97",
+        "height": 28,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53475,
+              47.206875000000004
+            ],
+            [
+              -1.53365,
+              47.206875000000004
+            ],
+            [
+              -1.53365,
+              47.207525
+            ],
+            [
+              -1.53475,
+              47.207525
+            ],
+            [
+              -1.53475,
+              47.206875000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-98",
+        "height": 31,
+        "min_height": 0,
+        "levels": 9,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53475,
+              47.207775000000005
+            ],
+            [
+              -1.53365,
+              47.207775000000005
+            ],
+            [
+              -1.53365,
+              47.208425
+            ],
+            [
+              -1.53475,
+              47.208425
+            ],
+            [
+              -1.53475,
+              47.207775000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-99",
+        "height": 34,
+        "min_height": 0,
+        "levels": 10,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53475,
+              47.20867500000001
+            ],
+            [
+              -1.53365,
+              47.20867500000001
+            ],
+            [
+              -1.53365,
+              47.209325
+            ],
+            [
+              -1.53475,
+              47.209325
+            ],
+            [
+              -1.53475,
+              47.20867500000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-100",
+        "height": 37,
+        "min_height": 0,
+        "levels": 11,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53475,
+              47.209575
+            ],
+            [
+              -1.53365,
+              47.209575
+            ],
+            [
+              -1.53365,
+              47.210224999999994
+            ],
+            [
+              -1.53475,
+              47.210224999999994
+            ],
+            [
+              -1.53475,
+              47.209575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-101",
+        "height": 20,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53475,
+              47.210475
+            ],
+            [
+              -1.53365,
+              47.210475
+            ],
+            [
+              -1.53365,
+              47.211124999999996
+            ],
+            [
+              -1.53475,
+              47.211124999999996
+            ],
+            [
+              -1.53475,
+              47.210475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-102",
+        "height": 33,
+        "min_height": 0,
+        "levels": 9,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53335,
+              47.206875000000004
+            ],
+            [
+              -1.53225,
+              47.206875000000004
+            ],
+            [
+              -1.53225,
+              47.207525
+            ],
+            [
+              -1.53335,
+              47.207525
+            ],
+            [
+              -1.53335,
+              47.206875000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-103",
+        "height": 36,
+        "min_height": 0,
+        "levels": 10,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53335,
+              47.207775000000005
+            ],
+            [
+              -1.53225,
+              47.207775000000005
+            ],
+            [
+              -1.53225,
+              47.208425
+            ],
+            [
+              -1.53335,
+              47.208425
+            ],
+            [
+              -1.53335,
+              47.207775000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-104",
+        "height": 19,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53335,
+              47.20867500000001
+            ],
+            [
+              -1.53225,
+              47.20867500000001
+            ],
+            [
+              -1.53225,
+              47.209325
+            ],
+            [
+              -1.53335,
+              47.209325
+            ],
+            [
+              -1.53335,
+              47.20867500000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-105",
+        "height": 22,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53335,
+              47.209575
+            ],
+            [
+              -1.53225,
+              47.209575
+            ],
+            [
+              -1.53225,
+              47.210224999999994
+            ],
+            [
+              -1.53335,
+              47.210224999999994
+            ],
+            [
+              -1.53335,
+              47.209575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-106",
+        "height": 25,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53335,
+              47.210475
+            ],
+            [
+              -1.53225,
+              47.210475
+            ],
+            [
+              -1.53225,
+              47.211124999999996
+            ],
+            [
+              -1.53335,
+              47.211124999999996
+            ],
+            [
+              -1.53335,
+              47.210475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-107",
+        "height": 18,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53195,
+              47.206875000000004
+            ],
+            [
+              -1.5308499999999998,
+              47.206875000000004
+            ],
+            [
+              -1.5308499999999998,
+              47.207525
+            ],
+            [
+              -1.53195,
+              47.207525
+            ],
+            [
+              -1.53195,
+              47.206875000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-108",
+        "height": 21,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53195,
+              47.207775000000005
+            ],
+            [
+              -1.5308499999999998,
+              47.207775000000005
+            ],
+            [
+              -1.5308499999999998,
+              47.208425
+            ],
+            [
+              -1.53195,
+              47.208425
+            ],
+            [
+              -1.53195,
+              47.207775000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-109",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53195,
+              47.20867500000001
+            ],
+            [
+              -1.5308499999999998,
+              47.20867500000001
+            ],
+            [
+              -1.5308499999999998,
+              47.209325
+            ],
+            [
+              -1.53195,
+              47.209325
+            ],
+            [
+              -1.53195,
+              47.20867500000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-110",
+        "height": 27,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53195,
+              47.209575
+            ],
+            [
+              -1.5308499999999998,
+              47.209575
+            ],
+            [
+              -1.5308499999999998,
+              47.210224999999994
+            ],
+            [
+              -1.53195,
+              47.210224999999994
+            ],
+            [
+              -1.53195,
+              47.209575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-111",
+        "height": 30,
+        "min_height": 0,
+        "levels": 9,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53195,
+              47.210475
+            ],
+            [
+              -1.5308499999999998,
+              47.210475
+            ],
+            [
+              -1.5308499999999998,
+              47.211124999999996
+            ],
+            [
+              -1.53195,
+              47.211124999999996
+            ],
+            [
+              -1.53195,
+              47.210475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-112",
+        "height": 23,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53055,
+              47.206875000000004
+            ],
+            [
+              -1.52945,
+              47.206875000000004
+            ],
+            [
+              -1.52945,
+              47.207525
+            ],
+            [
+              -1.53055,
+              47.207525
+            ],
+            [
+              -1.53055,
+              47.206875000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-113",
+        "height": 26,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53055,
+              47.207775000000005
+            ],
+            [
+              -1.52945,
+              47.207775000000005
+            ],
+            [
+              -1.52945,
+              47.208425
+            ],
+            [
+              -1.53055,
+              47.208425
+            ],
+            [
+              -1.53055,
+              47.207775000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-114",
+        "height": 29,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53055,
+              47.20867500000001
+            ],
+            [
+              -1.52945,
+              47.20867500000001
+            ],
+            [
+              -1.52945,
+              47.209325
+            ],
+            [
+              -1.53055,
+              47.209325
+            ],
+            [
+              -1.53055,
+              47.20867500000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-115",
+        "height": 32,
+        "min_height": 0,
+        "levels": 9,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53055,
+              47.209575
+            ],
+            [
+              -1.52945,
+              47.209575
+            ],
+            [
+              -1.52945,
+              47.210224999999994
+            ],
+            [
+              -1.53055,
+              47.210224999999994
+            ],
+            [
+              -1.53055,
+              47.209575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-116",
+        "height": 35,
+        "min_height": 0,
+        "levels": 10,
+        "type": "residential",
+        "categoryLabel": "Habitats Beaulieu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53055,
+              47.210475
+            ],
+            [
+              -1.52945,
+              47.210475
+            ],
+            [
+              -1.52945,
+              47.211124999999996
+            ],
+            [
+              -1.53055,
+              47.211124999999996
+            ],
+            [
+              -1.53055,
+              47.210475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-117",
+        "name": "Pôle Tertiaire Vincent Gâche 1",
+        "height": 25,
+        "min_height": 0,
+        "levels": 7,
+        "type": "office",
+        "categoryLabel": "Pôle de bureaux"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.54345,
+              47.2067
+            ],
+            [
+              -1.5425499999999999,
+              47.2067
+            ],
+            [
+              -1.5425499999999999,
+              47.207300000000004
+            ],
+            [
+              -1.54345,
+              47.207300000000004
+            ],
+            [
+              -1.54345,
+              47.2067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-118",
+        "name": "Pôle Tertiaire Vincent Gâche 2",
+        "height": 31,
+        "min_height": 0,
+        "levels": 9,
+        "type": "office",
+        "categoryLabel": "Pôle de bureaux"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.54225,
+              47.2067
+            ],
+            [
+              -1.5413499999999998,
+              47.2067
+            ],
+            [
+              -1.5413499999999998,
+              47.207300000000004
+            ],
+            [
+              -1.54225,
+              47.207300000000004
+            ],
+            [
+              -1.54225,
+              47.2067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-119",
+        "name": "Pôle Tertiaire Vincent Gâche 3",
+        "height": 37,
+        "min_height": 0,
+        "levels": 11,
+        "type": "office",
+        "categoryLabel": "Pôle de bureaux"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.54105,
+              47.2067
+            ],
+            [
+              -1.54015,
+              47.2067
+            ],
+            [
+              -1.54015,
+              47.207300000000004
+            ],
+            [
+              -1.54105,
+              47.207300000000004
+            ],
+            [
+              -1.54105,
+              47.2067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-120",
+        "name": "Pôle Tertiaire Vincent Gâche 4",
+        "height": 25,
+        "min_height": 0,
+        "levels": 7,
+        "type": "office",
+        "categoryLabel": "Pôle de bureaux"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53985,
+              47.2067
+            ],
+            [
+              -1.5389499999999998,
+              47.2067
+            ],
+            [
+              -1.5389499999999998,
+              47.207300000000004
+            ],
+            [
+              -1.53985,
+              47.207300000000004
+            ],
+            [
+              -1.53985,
+              47.2067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-121",
+        "name": "Pôle Tertiaire Vincent Gâche 5",
+        "height": 31,
+        "min_height": 0,
+        "levels": 9,
+        "type": "office",
+        "categoryLabel": "Pôle de bureaux"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53865,
+              47.2067
+            ],
+            [
+              -1.53775,
+              47.2067
+            ],
+            [
+              -1.53775,
+              47.207300000000004
+            ],
+            [
+              -1.53865,
+              47.207300000000004
+            ],
+            [
+              -1.53865,
+              47.2067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-122",
+        "name": "Pôle Tertiaire Vincent Gâche 6",
+        "height": 37,
+        "min_height": 0,
+        "levels": 11,
+        "type": "office",
+        "categoryLabel": "Pôle de bureaux"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53745,
+              47.2067
+            ],
+            [
+              -1.5365499999999999,
+              47.2067
+            ],
+            [
+              -1.5365499999999999,
+              47.207300000000004
+            ],
+            [
+              -1.53745,
+              47.207300000000004
+            ],
+            [
+              -1.53745,
+              47.2067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-123",
+        "height": 20,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Façade quai de la Fosse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5696999999999999,
+              47.210499999999996
+            ],
+            [
+              -1.5683,
+              47.210499999999996
+            ],
+            [
+              -1.5683,
+              47.2111
+            ],
+            [
+              -1.5696999999999999,
+              47.2111
+            ],
+            [
+              -1.5696999999999999,
+              47.210499999999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-124",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Façade quai de la Fosse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5678999999999998,
+              47.210499999999996
+            ],
+            [
+              -1.5665,
+              47.210499999999996
+            ],
+            [
+              -1.5665,
+              47.2111
+            ],
+            [
+              -1.5678999999999998,
+              47.2111
+            ],
+            [
+              -1.5678999999999998,
+              47.210499999999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-125",
+        "height": 28,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Façade quai de la Fosse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5660999999999998,
+              47.210499999999996
+            ],
+            [
+              -1.5647,
+              47.210499999999996
+            ],
+            [
+              -1.5647,
+              47.2111
+            ],
+            [
+              -1.5660999999999998,
+              47.2111
+            ],
+            [
+              -1.5660999999999998,
+              47.210499999999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-126",
+        "height": 22,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Façade quai de la Fosse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5642999999999998,
+              47.210499999999996
+            ],
+            [
+              -1.5629,
+              47.210499999999996
+            ],
+            [
+              -1.5629,
+              47.2111
+            ],
+            [
+              -1.5642999999999998,
+              47.2111
+            ],
+            [
+              -1.5642999999999998,
+              47.210499999999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-127",
+        "height": 26,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Façade quai de la Fosse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5624999999999998,
+              47.210499999999996
+            ],
+            [
+              -1.5611,
+              47.210499999999996
+            ],
+            [
+              -1.5611,
+              47.2111
+            ],
+            [
+              -1.5624999999999998,
+              47.2111
+            ],
+            [
+              -1.5624999999999998,
+              47.210499999999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-128",
+        "height": 20,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Façade quai de la Fosse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5607,
+              47.210499999999996
+            ],
+            [
+              -1.5593000000000001,
+              47.210499999999996
+            ],
+            [
+              -1.5593000000000001,
+              47.2111
+            ],
+            [
+              -1.5607,
+              47.2111
+            ],
+            [
+              -1.5607,
+              47.210499999999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-129",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Façade quai de la Fosse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5589,
+              47.210499999999996
+            ],
+            [
+              -1.5575,
+              47.210499999999996
+            ],
+            [
+              -1.5575,
+              47.2111
+            ],
+            [
+              -1.5589,
+              47.2111
+            ],
+            [
+              -1.5589,
+              47.210499999999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-130",
+        "height": 28,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Façade quai de la Fosse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5571,
+              47.210499999999996
+            ],
+            [
+              -1.5557,
+              47.210499999999996
+            ],
+            [
+              -1.5557,
+              47.2111
+            ],
+            [
+              -1.5571,
+              47.2111
+            ],
+            [
+              -1.5571,
+              47.210499999999996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-131",
+        "height": 16,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Rive Rezé / Pirmil"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.56675,
+              47.196850000000005
+            ],
+            [
+              -1.56525,
+              47.196850000000005
+            ],
+            [
+              -1.56525,
+              47.19755
+            ],
+            [
+              -1.56675,
+              47.19755
+            ],
+            [
+              -1.56675,
+              47.196850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-132",
+        "height": 21,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Rive Rezé / Pirmil"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.56475,
+              47.196850000000005
+            ],
+            [
+              -1.56325,
+              47.196850000000005
+            ],
+            [
+              -1.56325,
+              47.19755
+            ],
+            [
+              -1.56475,
+              47.19755
+            ],
+            [
+              -1.56475,
+              47.196850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-133",
+        "height": 26,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Rive Rezé / Pirmil"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.56275,
+              47.196850000000005
+            ],
+            [
+              -1.56125,
+              47.196850000000005
+            ],
+            [
+              -1.56125,
+              47.19755
+            ],
+            [
+              -1.56275,
+              47.19755
+            ],
+            [
+              -1.56275,
+              47.196850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-134",
+        "height": 19,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Rive Rezé / Pirmil"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.56075,
+              47.196850000000005
+            ],
+            [
+              -1.55925,
+              47.196850000000005
+            ],
+            [
+              -1.55925,
+              47.19755
+            ],
+            [
+              -1.56075,
+              47.19755
+            ],
+            [
+              -1.56075,
+              47.196850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-135",
+        "height": 24,
+        "min_height": 0,
+        "levels": 7,
+        "type": "residential",
+        "categoryLabel": "Rive Rezé / Pirmil"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55875,
+              47.196850000000005
+            ],
+            [
+              -1.55725,
+              47.196850000000005
+            ],
+            [
+              -1.55725,
+              47.19755
+            ],
+            [
+              -1.55875,
+              47.19755
+            ],
+            [
+              -1.55875,
+              47.196850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-136",
+        "height": 17,
+        "min_height": 0,
+        "levels": 5,
+        "type": "residential",
+        "categoryLabel": "Rive Rezé / Pirmil"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55675,
+              47.196850000000005
+            ],
+            [
+              -1.55525,
+              47.196850000000005
+            ],
+            [
+              -1.55525,
+              47.19755
+            ],
+            [
+              -1.55675,
+              47.19755
+            ],
+            [
+              -1.55675,
+              47.196850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-137",
+        "height": 22,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Rive Rezé / Pirmil"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55475,
+              47.196850000000005
+            ],
+            [
+              -1.55325,
+              47.196850000000005
+            ],
+            [
+              -1.55325,
+              47.19755
+            ],
+            [
+              -1.55475,
+              47.19755
+            ],
+            [
+              -1.55475,
+              47.196850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-138",
+        "height": 27,
+        "min_height": 0,
+        "levels": 8,
+        "type": "residential",
+        "categoryLabel": "Rive Rezé / Pirmil"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55275,
+              47.196850000000005
+            ],
+            [
+              -1.55125,
+              47.196850000000005
+            ],
+            [
+              -1.55125,
+              47.19755
+            ],
+            [
+              -1.55275,
+              47.19755
+            ],
+            [
+              -1.55275,
+              47.196850000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bld-139",
+        "height": 20,
+        "min_height": 0,
+        "levels": 6,
+        "type": "residential",
+        "categoryLabel": "Rive Rezé / Pirmil"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55075,
+              47.196850000000005
+            ],
+            [
+              -1.54925,
+              47.196850000000005
+            ],
+            [
+              -1.54925,
+              47.19755
+            ],
+            [
+              -1.55075,
+              47.19755
+            ],
+            [
+              -1.55075,
+              47.196850000000005
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
